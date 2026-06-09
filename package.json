@@ -1,0 +1,13 @@
+{
+  "name": "building-with-claude-api",
+  "version": "1.0.0",
+  "description": "Building with the Claude API course exercises (Node.js + Anthropic SDK)",
+  "type": "module",
+  "scripts": {
+    "start:2": "node \"2 - System Prompts/index.js\""
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.70.0",
+    "dotenv": "^17.0.0"
+  }
+}

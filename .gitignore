@@ -1,0 +1,10 @@
+# Dependencies (matches node_modules in any exercise folder)
+node_modules/
+
+# Secrets
+.env
+
+# Python (in case some exercises use notebooks/venvs)
+__pycache__/
+.venv/
+.ipynb_checkpoints/
